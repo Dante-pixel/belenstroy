@@ -19,7 +19,7 @@ a { text-decoration: none; }
 
 /* ГЛАВНЫЙ БАННЕР (HERO) */
 .hero {
-    background: #333 url('photo/maing.jpg') center center / cover no-repeat;
+    background: #333 url('maing.jpg') center center / cover no-repeat;
     height: 500px;
     display: flex;
     align-items: center;
